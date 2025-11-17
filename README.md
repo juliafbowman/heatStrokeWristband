@@ -1,8 +1,9 @@
 # Heat Stroke Wristband 
 
+CS 479 / BME 479
 ---
 
-# 📘 Abstract  
+# Abstract  
 A wearable heat-stroke prevention bracelet designed for elderly individuals. 
 
 The device uses two Bluetooth-linked Fire Beetle BTE 4.1 boards paired with Arduino to collect sensor data and relay real-time information to a custom user interface.  
@@ -100,6 +101,8 @@ The team used **Figma** to prototype the user interface before implementation. F
 - A unified team vision and reduced miscommunication  
 
 The prototype served as a blueprint for the final UI, ensuring feature alignment and helping predict design and development issues early.
+
+<img width="144" height="145" alt="image" src="https://github.com/user-attachments/assets/663d18de-b0d5-46e9-bfa2-2730674b2bed" />
 
 ---
 
