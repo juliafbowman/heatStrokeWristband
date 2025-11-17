@@ -1,8 +1,5 @@
 # Heat Stroke Wristband 
 
-CS 479 / BME 479
----
-
 # Abstract  
 A wearable heat-stroke prevention bracelet designed for elderly individuals. 
 
@@ -139,6 +136,14 @@ Two Node.js/Express servers:
 - Add WebSockets for live streaming  
 - Add historical data graphs  
 - Expand to native mobile apps  
+
+---
+
+Course Information
+
+Course: CS 479 / BME 479
+Semester: Fall 2024
+Institution: University of Illinois Chicago (UIC)
 
 ---
 
