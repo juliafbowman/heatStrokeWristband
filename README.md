@@ -139,13 +139,11 @@ Two Node.js/Express servers:
 
 ---
 
-Course Information
+## Course Information
 
-Course: CS 479 / BME 479
-
-Semester: Fall 2024
-
-Institution: University of Illinois Chicago (UIC)
+**Course**: Wearables and Nearables  
+**Semester**: Fall 2024  
+**Institution**: University of Illinois Chicago (UIC)
 
 ---
 
