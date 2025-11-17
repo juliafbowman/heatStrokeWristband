@@ -102,7 +102,7 @@ The team used **Figma** to prototype the user interface before implementation. F
 
 The prototype served as a blueprint for the final UI, ensuring feature alignment and helping predict design and development issues early.
 
-<img width="512" height="515" alt="image" src="https://github.com/user-attachments/assets/91e8220c-cf49-4997-aab0-f40971d6e3a0" />
+<img width="780" height="785" alt="image" src="https://github.com/user-attachments/assets/9a07a404-89b0-4b45-9d89-f90241275472" />
 
 ---
 
