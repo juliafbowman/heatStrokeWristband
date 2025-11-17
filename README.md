@@ -143,6 +143,6 @@ Two Node.js/Express servers:
 ---
 
 # V. Conclusion
-This project demonstrates how wearable health technology can play a critical role in preventing heat-related illnesses. By integrating multiple sensors, Bluetooth communication, and a responsive user interface, the wristband provides real-time data for personal safety.
+Wearable health technology can play a critical role in preventing heat-related illnesses. By integrating multiple sensors, Bluetooth communication, and a responsive user interface, the wristband provides real-time data for personal safety.
 
 The project highlights the importance of sensor accuracy, intuitive UX design, and reliable signal processing, laying the foundation for future enhancements such as advanced analytics, mobile integration, and broader applications in environmental health monitoring.
